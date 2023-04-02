@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+
+
+
+body {
+    text-align: center;
+    padding-top: 160px;
+    background-image: url(https://i.ibb.co/xCFf1P3/background-image-1.png);
+    background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+  
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 86px;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+}
+
+h1 span {
+  color: #DB2777;
+}
+
+h3 {
+  margin-top: 4px;
+  font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: black;
+margin-bottom: 72px;
+font-family: 'Inter', sans-serif;
+}
+
+
+a {
+  color: rgb(0, 0, 0);
+  padding: 11px 28px;
+  border-radius: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  opacity: 2.3;
+  
+  font-family: 'Cinzel', serif;
+  text-decoration: none;
+}
+a:hover,
+.crt {
+
+  color: #ffffff;
+  background-color: #DB2777;
+  opacity: 1;
+  font-family: 'Cinzel', serif;
+  
+}
+
+.crt:hover {
+  color: black;
+  transition: .5;
+  /* opacity: .7; */
+}

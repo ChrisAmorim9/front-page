@@ -1,2 +1,2 @@
-# front-page
- Página inicial de um site de um jogo, e um site de viagem
+# homepage
+ game website homepage and a travel website

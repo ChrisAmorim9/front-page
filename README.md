@@ -1,2 +1,2 @@
 # homepage
- game website homepage and a travel website
+ three front-pages, Travel, Game and Health
